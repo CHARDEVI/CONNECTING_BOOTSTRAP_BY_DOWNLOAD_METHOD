@@ -1,0 +1,12 @@
+img
+{
+    height: 700px;
+    width: 500px;
+}
+body
+{
+    background: url('{% static "images/devi2.jpeg" %}');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
